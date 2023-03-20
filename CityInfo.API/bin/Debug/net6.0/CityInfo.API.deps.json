@@ -12,6 +12,7 @@
           "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.15",
           "Microsoft.AspNetCore.JsonPatch": "7.0.4",
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "6.0.15",
+          "Microsoft.AspNetCore.Mvc.Versioning": "5.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.4",
           "Microsoft.EntityFrameworkCore.Sqlite": "7.0.4",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.4",
@@ -90,6 +91,14 @@
           "lib/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll": {
             "assemblyVersion": "6.0.15.0",
             "fileVersion": "6.0.1523.12404"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Mvc.Versioning/5.0.0": {
+        "runtime": {
+          "lib/net5.0/Microsoft.AspNetCore.Mvc.Versioning.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.7710.5690"
           }
         }
       },
@@ -852,6 +861,13 @@
       "sha512": "sha512-nyxCEb+mGFuc+O3TdltHj5HXeswV9BLCtBvotNEypkdSynV6rlRKT1wHgfyXDYvrI4ubII/2ov3YrtEdhK+9uw==",
       "path": "microsoft.aspnetcore.mvc.newtonsoftjson/6.0.15",
       "hashPath": "microsoft.aspnetcore.mvc.newtonsoftjson.6.0.15.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Mvc.Versioning/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mN9IARvNpHMBD2/oGmp5Bxp1Dg45Hfcp+LWaAyTtL2HisWLMOIcf0Ox1qW9IvCvdbHM+2A9dWEInhiqBsNxsJA==",
+      "path": "microsoft.aspnetcore.mvc.versioning/5.0.0",
+      "hashPath": "microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512"
     },
     "Microsoft.CSharp/4.7.0": {
       "type": "package",

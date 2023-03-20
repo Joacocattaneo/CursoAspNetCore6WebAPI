@@ -102,3 +102,5 @@ C:\Repositorios\Curso AEP.NET Core API 2023\CityInfo\CityInfo.API\bin\Debug\net6
 C:\Repositorios\Curso AEP.NET Core API 2023\CityInfo\CityInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Repositorios\Curso AEP.NET Core API 2023\CityInfo\CityInfo.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 C:\Repositorios\Curso AEP.NET Core API 2023\CityInfo\CityInfo.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Repositorios\Curso AEP.NET Core API 2023\CityInfo\CityInfo.API\bin\Debug\net6.0\CityInfo.API.xml
+C:\Repositorios\Curso AEP.NET Core API 2023\CityInfo\CityInfo.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll

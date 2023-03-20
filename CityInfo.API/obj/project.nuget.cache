@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ksQ2JoVkoc2AV+HZ9m868ZV3/MWyGoLkeTMG/8FqisakCrnw2uzVWrNX/lCyps2D2EOgATRproKNxpbo+0hVNg==",
+  "dgSpecHash": "f7FBEeV6/Kw5h3Lyc2qu4PRtrhSWH7RfS/FvkItEUaebkplPHQCpfyu77PdCJXV9/dfGE6YizTH2lCTpSiYK9w==",
   "success": true,
   "projectFilePath": "C:\\Repositorios\\Curso AEP.NET Core API 2023\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\joaquin_cattaneo\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.15\\microsoft.aspnetcore.authentication.jwtbearer.6.0.15.nupkg.sha512",
     "C:\\Users\\joaquin_cattaneo\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.4\\microsoft.aspnetcore.jsonpatch.7.0.4.nupkg.sha512",
     "C:\\Users\\joaquin_cattaneo\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.15\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.15.nupkg.sha512",
+    "C:\\Users\\joaquin_cattaneo\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
     "C:\\Users\\joaquin_cattaneo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\joaquin_cattaneo\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.4\\microsoft.data.sqlite.core.7.0.4.nupkg.sha512",
     "C:\\Users\\joaquin_cattaneo\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.4\\microsoft.entityframeworkcore.7.0.4.nupkg.sha512",
